@@ -1,12 +1,12 @@
 // file: script.js
 // Initialize Firebase
 var config = {
-  apiKey: "AIzaSyAvHToVDiX6-8vxSml0rg9S80hIxjoEojw",
-    authDomain: "dec222019.firebaseapp.com",
-    databaseURL: "https://dec222019.firebaseio.com",
-    projectId: "dec222019",
-    storageBucket: "dec222019.appspot.com",
-    messagingSenderId: "592439968262"
+   apiKey: "AIzaSyBH_4Gn4Plw51n68sU5eiae0ss9i_yp1Hw",
+    authDomain: "moli-ee114.firebaseapp.com",
+    databaseURL: "https://moli-ee114.firebaseio.com",
+    projectId: "moli-ee114",
+    storageBucket: "moli-ee114.appspot.com",
+    messagingSenderId: "836833996298"
 };
 firebase.initializeApp(config);
 
